@@ -1,0 +1,4 @@
+platano
+mandarina
+papa
+uva
